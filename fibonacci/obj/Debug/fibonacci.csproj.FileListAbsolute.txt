@@ -1,0 +1,5 @@
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\fibonacci\obj\Debug\fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\fibonacci\bin\Debug\fibonacci.exe
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\fibonacci\bin\Debug\fibonacci.pdb
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\fibonacci\obj\Debug\fibonacci.exe
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\fibonacci\obj\Debug\fibonacci.pdb
